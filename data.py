@@ -1,8 +1,17 @@
-def nameAnalyze():
-    list_names = ["Stina", "Ahmed", "John", "Maria"]    
-    return list_names
+cities = ["göteborg", "stockholm", "malmö"] 
+print(len(cities))
+othercities = ["uppsala", "västerås"]
+print(othercities)
+print(len(othercities))
 
-def add_Temperature_to_temperatureList(temp_fromUser):
-    temperatureList = [12, 15, 20, 25, 30]
-    temperatureList.append(temp_fromUser) 
-    return temperatureList
+animals = ["hund", "katt", "häst", "kanin"] 
+print(animals[0])
+print(animals[2])
+
+colors = ["röd", "blå", "grön"]
+colors[1] = "gul"
+print(colors)
+
+movies = ["the matrix", "wolf of wall street", "ironman", "spider-man far from home", "grownups 2"]
+print(len(movies))
+print(movies)

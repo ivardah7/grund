@@ -1,7 +1,5 @@
 import data 
 
-print(data.nameAnalyze())
+print(data.animals)  
 
-temp = 8
-
-print(data.add_Temperature_to_temperatureList(temp))
+print(data.cities)
