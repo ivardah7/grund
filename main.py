@@ -1,5 +1,3 @@
 import data 
 
-print(data.animals)  
-
-print(data.cities)
+print(data.get_shopping_list())
