@@ -1,3 +1,3 @@
 import data 
 
-data.names()
+data.prices()
