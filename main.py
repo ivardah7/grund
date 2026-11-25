@@ -1,3 +1,3 @@
 import data 
 
-data.values()
+data.get_tempatures()
