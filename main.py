@@ -1,3 +1,3 @@
 import data 
 
-data.prices()
+data.get_scores()
