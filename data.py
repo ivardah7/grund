@@ -1,4 +1,4 @@
-def get_scores() :
-    scores = [85, 92, 78, 96, 55]
-    for scores in scores: 
-        print(scores *2)
+def values ():
+    values = [50, 65, 19, 28, 950]
+    values.sort()
+    print(values)
